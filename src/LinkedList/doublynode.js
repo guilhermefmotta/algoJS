@@ -1,0 +1,3 @@
+class DoublyNode extends Node {
+
+  }
