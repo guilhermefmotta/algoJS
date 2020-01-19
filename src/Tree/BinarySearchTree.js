@@ -24,7 +24,7 @@ export default class BinarySearchTree {
   };
 
   preOrderTraverse(callback) {
-    this.pre
+    this.preOrderTraverseNode(this.root, callback);
   };
 
   postOrderTraverse() {
