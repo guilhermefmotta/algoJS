@@ -39,7 +39,7 @@ class Set {
   };
 
   values() {
-    return Object.va  lues(this.items);
+    return Object.values(this.items);
   }
 
   union(otherSet) {
